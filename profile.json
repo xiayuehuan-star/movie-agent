@@ -1,0 +1,24 @@
+{
+  "favorite_genres": [
+    "剧情",
+    "情感",
+    "人生",
+    "治愈系",
+    "温情",
+    "成长"
+  ],
+  "favorite_character_types": [
+    "主角",
+    "配角",
+    "关键人物"
+  ],
+  "favorite_countries": [],
+  "favorite_actors": [],
+  "favorite_directors": [],
+  "watch_count": 3,
+  "favorite_movies": [
+    "不浪漫",
+    "无法治愈",
+    "爱上你治愈我"
+  ]
+}
